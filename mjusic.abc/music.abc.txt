@@ -1,0 +1,7 @@
+"D"a3 f3|"A7"A2e "D"f2e|"D7"f2d Afg|"D"a2d d2f||
+"A"e2c "E7"Bcd|"A"e2c "E7"Bcd|"A"e3 -"Em"e2d|"A"c2A AGA|"E"B2B "E7"B2e|"A"A3 -"E7"e2d|"A"c2c "B7"acB|"A7"A3 -"D"A2G|"A"A3 -A2:|
+K:Am
+P:C
+e|"Am"e3 e3|"E7"e2d B^cd|"Em"e2e e3|"E7"e2e efa|"A"e2c ABc|
+"D"d2B DFG|"Bm"A2F "E7"^GEE|"A"A3 A3|"A"ABc d3|"E7"G2B "A"ced|
+"A"e2c "E7"Bcd|"A"e3 -"E7"de^d|"A"e2c ABA|
