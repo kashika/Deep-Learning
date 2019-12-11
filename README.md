@@ -7,9 +7,9 @@ Packages Required: Keras TensorFlow PyTorch Sklearn Pandas Seaborn Matplotlib Nu
 
 Dataset:
 
-RNN and LSTM 405 Folk Music Tunes converted in ABC Notation Sequence of texts http://abc.sourceforge.net/NMD/
+1. RNN and LSTM 405 Folk Music Tunes converted in ABC Notation Sequence of texts http://abc.sourceforge.net/NMD/
 
-C-RNN-GAN 3697 music files in midi format of classical music The data is normalized to a tick resolution of 384 per quarter note https://github.com/olofmogren/c-rnn-gan
+2. C-RNN-GAN 3697 music files in midi format of classical music The data is normalized to a tick resolution of 384 per quarter note https://github.com/olofmogren/c-rnn-gan
 
 Training data was collected from the web in the form of music files in midi format, containing well-known works of classical music. Each midi event of the type “note on” was loaded and saved together with its duration, tone, intensity (velocity), and time since beginning of last tone. The tone data is internally represented with the corresponding sound frequency. Internally, all data is normalized to a tick resolution of 384 per quarter note. The data contains 3697 midi files from 160 different composers of classical music.
 
