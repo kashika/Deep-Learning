@@ -3,9 +3,19 @@ Music-Generation- Deep Learning
 
 This project is generating of good quality music by understanding the patterns from the existing music data. As a part of the solution I have explored different methodologies for music generation including Many-to-Many RNN and C-RNN-GAN. I have also evaluate and compared the results from implementation of different methodologies and finally demo the sample music.
 
-Packages Required: Keras TensorFlow PyTorch Sklearn Pandas Seaborn Matplotlib Numpy Scipy midi
+#Packages Required: 
+Keras 
+TensorFlow 
+PyTorch 
+Sklearn 
+Pandas 
+Seaborn 
+Matplotlib 
+Numpy 
+Scipy 
+midi
 
-Dataset:
+#Dataset:
 
 1. RNN and LSTM 405 Folk Music Tunes converted in ABC Notation Sequence of texts http://abc.sourceforge.net/NMD/
 
@@ -18,4 +28,4 @@ Part-1 represents meta data. Lines in the Part-1 of the tune notation, beginning
 MIDI itself does not make sound, it is just a series of messages like “note on,” “note off,” “note/pitch,” “pitch-bend,” and many more. These messages are interpreted by a MIDI instrument to produce sound. A MIDI instrument can be a piece of hardware (electronic keyboard, synthesizer) or part of a software environment (ableton, garageband, digital performer, logic etc.
 
 
-# Python files for the code available in the data1 folder
+# Python files for the code available in the data folder
