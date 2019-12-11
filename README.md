@@ -1,4 +1,6 @@
-Music-Generation-Using-C-RNN-GAN
+Music-Generation-Using-C-RNN-GAN - Deep Learning
+
+
 This project is generating of good quality music by understanding the patterns from the existing music data. As a part of the solution I have explored different methodologies for music generation including Many-to-Many RNN and C-RNN-GAN. I have also evaluate and compared the results from implementation of different methodologies and finally demo the sample music.
 
 Packages Required: Keras TensorFlow PyTorch Sklearn Pandas Seaborn Matplotlib Numpy Scipy midi
